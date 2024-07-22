@@ -1,7 +1,5 @@
 # first-project-vuejs-app
-Première application web réalisée avec vue js, typescript
-
-# mlcontext-app
+First web application done with vue js 
 
 This template should help get you started developing with Vue 3 in Vite.
 
